@@ -2,6 +2,15 @@
 
 ![LagMeter Screenshot](https://github.com/kirumipat/LagMeter/releases/download/LagMeter/lag.jpg)  
 
+## 🌐 Социальные сети / Social links
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@itskidon)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@skidpropc)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SkidBoostPC)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/eSrxp2YGUC)
+
+---
+
 ## 📖 Описание (RU)
 **LagMeter** — это современный инструмент для измерения задержек ввода и качества интернет-соединения.  
 Программа помогает определить, всё ли работает стабильно, или стоит задуматься о настройке системы/сети.  
