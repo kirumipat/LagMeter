@@ -14,6 +14,8 @@
 ✨ **Зачем?**  
 LagMeter даёт простой способ убедиться, что ваш компьютер и сеть работают без лагов — будь то игры, работа или повседневные задачи.  
 
+➡️ [📥 Скачать LagMeter.exe](https://github.com/kirumipat/LagMeter/releases/download/LagMeter/LagMeter.exe)
+
 ---
 
 ## 📖 Description (EN)
@@ -29,3 +31,5 @@ It helps you check whether your system runs smoothly or if hidden issues might c
 
 ✨ **Why LagMeter?**  
 It provides an easy way to ensure your PC and network perform without lags — whether for gaming, work, or daily use.  
+
+➡️ [📥 Download LagMeter.exe](https://github.com/kirumipat/LagMeter/releases/download/LagMeter/LagMeter.exe)
